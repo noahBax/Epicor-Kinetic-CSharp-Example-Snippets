@@ -8,7 +8,7 @@ Requires Assemblies
 - Ice.Contracts.BO.UD07
 
 Also referenced in
-BAQs\CallBAQThenLoopToDelete.cs
+Epicor-Functions/BAQs/CallBAQThenLoopToDelete.cs
 */
 
 const string QUERY_ID = "PiMetricsToPurge";

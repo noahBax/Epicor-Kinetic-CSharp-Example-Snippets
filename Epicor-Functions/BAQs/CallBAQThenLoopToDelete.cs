@@ -8,7 +8,7 @@ Requires Assemblies
 - Ice.Contracts.BO.UD07
 
 Also referenced in
-UDXX\RecordDeletionWithBO.cs
+Epicor-Functions/UDXX/RecordDeletionWithBO.cs
 */
 
 const string QUERY_ID = "PiMetricsToPurge";
