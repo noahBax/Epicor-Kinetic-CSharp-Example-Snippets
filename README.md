@@ -15,6 +15,8 @@ So far there are examples for
 
 - BAQs
 - UDXX methods
+- Sending emails
+- Reading changelogs
 
 ## The What
 
