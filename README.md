@@ -2,8 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A repository of C# examples used by me and others online.
-
 Tired of kicking around for half a day trying to debug some custom code only to
 find an example when you're about to head out? *Maybe this can help out.*
 
@@ -18,13 +16,21 @@ So far there are examples for
 - Sending emails
 - Reading changelogs
 
-## The What
+Some examples may come from other sources and I add attributions when possible.
 
-This is a repository of code snippets that I've used personally or that I've
-found online. I have my own personal stash of code, but I figure I can help
-other people out with at least some of it.
+## Other Examples
 
-## The Why
+Other places that include code snippets and are great resources in general
+
+- [[epiusers.help](https://www.epiusers.help/)] has many many examples and
+  threads but can be hard to sift through
+- [[user lockworld on
+  GitHub](https://gist.github.com/lockworld/c3daf18b02758c594606c589d3011caf)]
+  has several code snippets
+- [[CodaBears YouTube](https://www.youtube.com/@CodaBears)] not only has code
+  examples but tutorials on most every component of Epicor you could think of.
+
+## Background
 
 Epicor is not necessarily vague about the syntax for their system, but it is
 very hard to find. You can go looking for it by decompiling dlls or by reviewing
@@ -37,19 +43,7 @@ solutions may not have exactly what you're looking for or there may be 5 threads
 all talking about your problem but only 1 of them actually has your solution.
 Plus, Jose Gomez and Hannah Willet only have so much time to give their wisdom.
 
-## The Similar
-
-I'm not the first one to do this. Here are a few places that do similar things:
-
-- [[epiusers.help](https://www.epiusers.help/)] has many many examples and
-  threads but can be hard to sift through
-- [[user lockworld on
-  GitHub](https://gist.github.com/lockworld/c3daf18b02758c594606c589d3011caf)]
-  has several code snippets
-- [[CodaBears YouTube](https://www.youtube.com/@CodaBears)] not only has code
-  examples but tutorials on most every component of Epicor you could think of.
-
-## The Disclaimer
+## Disclaimer
 
 This repository is an independent collection of generic code boilerplate and
 syntax templates. It is not affiliated with, endorsed by, or connected to Epicor
